@@ -1,0 +1,53 @@
+header {
+    height: 50px;
+    background-color: black;
+}
+li {
+    list-style: none;
+    float: left;
+    padding: 8px;
+    margin-top: 5px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.card {
+    
+    background-color: white;
+}
+.slider {
+    background-color: aquamarine;
+}
+.slider-img{
+    padding-top: 30px;
+    height: auto;
+    width: 1300px;
+}
+
+
+.p-text {
+    column-count: 3;
+    column-rule: 5px double black;
+  
+}
+.image, .p-text {
+    background-color: aquamarine;
+    margin-top: 20px;
+}
+
+.image {
+    padding: 20px;
+    float: left;
+    height: 300px;
+    width: 200px;
+}
+footer {
+    height: 50px;
+    background-color: black;
+}
+.footer h2{
+    color: white;
+    text-align: center;
+    
+}
